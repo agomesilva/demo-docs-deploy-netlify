@@ -13,7 +13,7 @@ const IndexPage = () => {
           fontWeight: 'bold',
         }}
       >
-        Gatsby Ant Design Docs Boilerplate
+        Angelina Gomes - Digital Transformation Catalyst
       </p>
       <h2>A gatsby starter to create documentation websites</h2>
       <p>
