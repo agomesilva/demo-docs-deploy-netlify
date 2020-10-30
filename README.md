@@ -50,3 +50,4 @@ and copy the content of the public folder to the webspace.
 # License
 
 MIT
+# demo-docs-deploy-netlify
